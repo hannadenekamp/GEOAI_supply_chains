@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<annotation>
+    <filename>000015218.tif</filename>
+    <source>
+        <annotation>ESRI ArcGIS Pro</annotation>
+    </source>
+    <size>
+        <width>128</width>
+        <height>128</height>
+        <depth>4</depth>
+    </size>
+    <object>
+        <name>1</name>
+        <bndbox>
+            <xmin>21.40</xmin>
+            <ymin>109.28</ymin>
+            <xmax>32.85</xmax>
+            <ymax>120.87</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>1</name>
+        <bndbox>
+            <xmin>107.20</xmin>
+            <ymin>66.56</ymin>
+            <xmax>116.43</xmax>
+            <ymax>77.42</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>1</name>
+        <bndbox>
+            <xmin>28.06</xmin>
+            <ymin>63.39</ymin>
+            <xmax>38.84</xmax>
+            <ymax>72.71</ymax>
+        </bndbox>
+    </object>
+</annotation>
